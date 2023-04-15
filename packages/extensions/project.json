@@ -42,7 +42,9 @@
       "options": {
         "lintFilePatterns": [
           "packages/extensions/**/*.ts",
-          "packages/extensions/**/*.html"
+          "packages/extensions/**/*.html",
+          "packages/extensions/core/**/*.ts",
+          "packages/extensions/core/**/*.html"
         ]
       }
     }
