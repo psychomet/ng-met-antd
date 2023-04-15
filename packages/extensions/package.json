@@ -1,6 +1,14 @@
 {
   "name": "@ng-met-antd/extensions",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metden/ng-met-antd.git",
+    "directory": "packages/extensions"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "peerDependencies": {
     "@angular/common": "^15.0.1",
     "@angular/core": "^15.0.1",

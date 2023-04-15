@@ -53,6 +53,14 @@
           "packages/extensions/calendar/**/*.html"
         ]
       }
+    },
+    "release": {
+      "executor": "nx:run-commands",
+      "outputs": [],
+      "options": {
+        "command": "npx semantic-release-plus --extends ./packages/extensions/release.config.js",
+        "parallel": false
+      }
     }
   }
 }
