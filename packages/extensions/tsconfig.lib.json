@@ -13,5 +13,10 @@
     "jest.config.ts",
     "src/**/*.test.ts"
   ],
-  "include": ["src/**/*.ts"]
+  "include": [
+    "src/**/*.ts",
+    "core/src/lib/*.ts",
+    "i18n/src/lib/*.ts",
+    "i18n/src/lib/**/*.ts"
+  ]
 }
