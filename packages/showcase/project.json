@@ -19,7 +19,10 @@
           "packages/showcase/src/favicon.ico",
           "packages/showcase/src/assets"
         ],
-        "styles": ["packages/showcase/src/styles.less"],
+        "styles": [
+          "packages/showcase/src/styles.less",
+          "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
+        ],
         "scripts": []
       },
       "configurations": {
