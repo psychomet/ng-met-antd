@@ -17,6 +17,9 @@
     "paths": {
       "@ng-met-antd/extensions": ["packages/extensions/src/index.ts"],
       "@ng-met-antd/extensions/core": ["packages/extensions/core/src/index.ts"],
+      "@ng-met-antd/extensions/date-picker": [
+        "packages/extensions/date-picker/src/index.ts"
+      ],
       "@ng-met-antd/extensions/i18n": ["packages/extensions/i18n/src/index.ts"]
     }
   },

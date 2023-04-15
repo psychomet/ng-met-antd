@@ -46,7 +46,9 @@
           "packages/extensions/core/**/*.ts",
           "packages/extensions/core/**/*.html",
           "packages/extensions/i18n/**/*.ts",
-          "packages/extensions/i18n/**/*.html"
+          "packages/extensions/i18n/**/*.html",
+          "packages/extensions/date-picker/**/*.ts",
+          "packages/extensions/date-picker/**/*.html"
         ]
       }
     }
