@@ -23,7 +23,8 @@
           "packages/showcase/src/styles.less",
           "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
         ],
-        "scripts": []
+        "scripts": [],
+        "allowedCommonJsDependencies": ["jalali-moment"]
       },
       "configurations": {
         "production": {

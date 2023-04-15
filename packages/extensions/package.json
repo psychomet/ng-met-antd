@@ -2,8 +2,9 @@
   "name": "@ng-met-antd/extensions",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^15.2.0",
-    "@angular/core": "^15.2.0"
+    "@angular/common": "^15.0.1",
+    "@angular/core": "^15.0.1",
+    "ng-zorro-antd": "^15.0.1"
   },
   "dependencies": {
     "tslib": "^2.3.0"
