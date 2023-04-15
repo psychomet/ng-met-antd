@@ -44,7 +44,9 @@
           "packages/extensions/**/*.ts",
           "packages/extensions/**/*.html",
           "packages/extensions/core/**/*.ts",
-          "packages/extensions/core/**/*.html"
+          "packages/extensions/core/**/*.html",
+          "packages/extensions/i18n/**/*.ts",
+          "packages/extensions/i18n/**/*.html"
         ]
       }
     }
