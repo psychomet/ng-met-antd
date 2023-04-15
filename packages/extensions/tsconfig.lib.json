@@ -17,6 +17,9 @@
     "src/**/*.ts",
     "core/src/lib/*.ts",
     "i18n/src/lib/*.ts",
-    "i18n/src/lib/**/*.ts"
+    "i18n/src/lib/**/*.ts",
+    "data-picker/src/*.ts",
+    "data-picker/src/**/*.ts",
+    "calendar/src/**/*.ts"
   ]
 }
