@@ -112,12 +112,12 @@ jobs:
             npm ci
           fi
       - run: |
-          npx nx affected --target build --parallel 3
+          npx nx run extensions:build
       - name: Release
         if: ${{ success() && (github.event_name != 'pull_request' || github.event.action == 'closed' && github.event.pull_request.merged == true) }}
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          npx nx affected --target release --all
+          npx nx run extensions:release
           npx semantic-release-plus
