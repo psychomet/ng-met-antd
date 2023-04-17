@@ -116,7 +116,7 @@ jobs:
             npm ci
           fi
       - run: |
-          npx nx affected --target build
+          npx nx build
       - name: Release
         if: ${{ success() && (github.event_name != 'pull_request' || github.event.action == 'closed' && github.event.pull_request.merged == true) }}
         env:
