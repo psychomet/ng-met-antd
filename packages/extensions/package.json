@@ -3,7 +3,7 @@
   "version": "0.0.0-semantic-release",
   "repository": {
     "type": "git",
-    "url": "https://github.com/metden/ng-met-antd",
+    "url": "https://github.com/metden/ng-met-antd.git",
     "directory": "packages/extensions"
   },
   "publishConfig": {
