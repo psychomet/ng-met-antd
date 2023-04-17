@@ -1,6 +1,5 @@
 {
   "tasksRunnerOptions": {
-    "npmScope": "metden",
     "default": {
       "runner": "nx/tasks-runners/default",
       "options": {
