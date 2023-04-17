@@ -15,7 +15,13 @@ module.exports = {
         changelogFile: `${srcRoot}/CHANGELOG.md`,
       },
     ],
-    '@semantic-release/npm',
+    [
+      '@semantic-release/npm',
+      {
+        npmPublish: true,
+        tarballDir: `dist/${srcRoot}`,
+      },
+    ],
     [
       '@semantic-release/git',
       {

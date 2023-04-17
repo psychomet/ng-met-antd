@@ -1,9 +1,5 @@
 name:
 
-permissions:
-  contents: write
-  pull-requests: write
-
 on:
   push:
     branches:
@@ -116,12 +112,16 @@ jobs:
             npm ci
           fi
       - run: |
-          npx nx affected -t build --p=extensions
+          npx nx workspace-lint
+          npx nx format:check
+          npx nx affected --target lint --parallel 3
+          npx nx affected --target test --parallel 3 --ci --code-coverage
+          npx nx affected --target build --parallel 3
       - name: Release
         if: ${{ success() && (github.event_name != 'pull_request' || github.event.action == 'closed' && github.event.pull_request.merged == true) }}
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          npx nx affected -t release --p=extensions
+          npx nx affected --target release --all
           npx semantic-release-plus

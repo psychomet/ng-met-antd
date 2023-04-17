@@ -18,8 +18,7 @@
     "directory": "packages/extensions"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "peerDependencies": {
     "@angular/common": "^15.0.1",
