@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.0...extensions-v1.0.1) (2023-04-17)
+
+
+### Bug Fixes
+
+* **extensions:** change version ([ce04b1c](https://github.com/metden/ng-met-antd/commit/ce04b1cfa1d8aefe4e0c869457a9e98a049c8676))
+
 # 1.0.0 (2023-04-17)
 
 
