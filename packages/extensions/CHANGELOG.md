@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/psychomet/ng-met-antd/compare/extensions-v1.0.9...extensions-v1.0.10) (2023-04-17)
+
+
+### Bug Fixes
+
+* **extensions:** wip package.json ([ca7ff7e](https://github.com/psychomet/ng-met-antd/commit/ca7ff7e0dbfba3588e223ffa563066604b07d97c))
+
 ## [1.0.9](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.8...extensions-v1.0.9) (2023-04-17)
 
 
