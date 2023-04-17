@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.8...extensions-v1.0.9) (2023-04-17)
+
+
+### Bug Fixes
+
+* **extensions:** wip ci ([30faf7e](https://github.com/metden/ng-met-antd/commit/30faf7e75e4694dcbf1429d0b0e930a7f29c505f))
+
 ## [1.0.8](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.7...extensions-v1.0.8) (2023-04-17)
 
 
