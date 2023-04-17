@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.7...extensions-v1.0.8) (2023-04-17)
+
+
+### Bug Fixes
+
+* **extensions:** update .npmrc ([65d3cd3](https://github.com/metden/ng-met-antd/commit/65d3cd361481298d5fa3110c0db6c66fd4979eb9))
+
 ## [1.0.7](https://github.com/metden/ng-met-antd/compare/extensions-v1.0.6...extensions-v1.0.7) (2023-04-17)
 
 
