@@ -2,7 +2,12 @@
   "name": "ng-met-antd",
   "version": "0.0.0-semantic-release",
   "keywords": [
-    "antd"
+    "antd",
+    "jalali",
+    "date-picker",
+    "calendar",
+    "hijri",
+    "persian"
   ],
   "repository": {
     "type": "git",
