@@ -8,7 +8,8 @@
     "calendar",
     "hijri",
     "persian",
-    "ng-zorro"
+    "ng-zorro",
+    "angular"
   ],
   "repository": {
     "type": "git",
