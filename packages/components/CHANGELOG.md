@@ -1,17 +1,15 @@
 ## [1.0.2](https://github.com/NG-MET/ng-met-antd/compare/components-v1.0.1...components-v1.0.2) (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** wip ci ([a7b4cec](https://github.com/NG-MET/ng-met-antd/commit/a7b4cec14e924d42a1f56c6cbd17d252550e9d5c))
+- **components:** wip ci ([a7b4cec](https://github.com/NG-MET/ng-met-antd/commit/a7b4cec14e924d42a1f56c6cbd17d252550e9d5c))
 
 ## [1.0.1](https://github.com/NG-MET/ng-met-antd/compare/components-v1.0.0...components-v1.0.1) (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** wip ci ([712df78](https://github.com/NG-MET/ng-met-antd/commit/712df7870ecf9205434970333e4bf45444ce260c))
-* **components:** wip ci ([e6e6cc7](https://github.com/NG-MET/ng-met-antd/commit/e6e6cc7558052e022820018b652b9b74164b0523))
+- **components:** wip ci ([712df78](https://github.com/NG-MET/ng-met-antd/commit/712df7870ecf9205434970333e4bf45444ce260c))
+- **components:** wip ci ([e6e6cc7](https://github.com/NG-MET/ng-met-antd/commit/e6e6cc7558052e022820018b652b9b74164b0523))
 
 # 1.0.0 (2023-04-19)
 

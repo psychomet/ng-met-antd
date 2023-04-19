@@ -17,10 +17,10 @@ module.exports = {
     ],
     [
       '@semantic-release/npm',
-      {
-        npmPublish: true,
-        tarballDir: `dist/${srcRoot}`,
-      },
+      // {
+      //   npmPublish: true,
+      //   tarballDir: `dist/${srcRoot}`,
+      // },
     ],
     [
       '@semantic-release/git',
