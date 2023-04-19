@@ -1,28 +1,24 @@
 ## [1.2.2](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.1...components-v1.2.2) (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** wip deps cdk ([cdfcac0](https://github.com/psychomet/ng-met-antd/commit/cdfcac0c59f3a165bfe8e40017cb2c1291bc58cb))
+- **components:** wip deps cdk ([cdfcac0](https://github.com/psychomet/ng-met-antd/commit/cdfcac0c59f3a165bfe8e40017cb2c1291bc58cb))
 
 ## [1.2.1](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.0...components-v1.2.1) (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** added angular cdk to allowedNonPeerDependencies ([b6fc089](https://github.com/psychomet/ng-met-antd/commit/b6fc089961c9547f407c724f9bcd12b5a8280762))
+- **components:** added angular cdk to allowedNonPeerDependencies ([b6fc089](https://github.com/psychomet/ng-met-antd/commit/b6fc089961c9547f407c724f9bcd12b5a8280762))
 
 # [1.2.0](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.2...components-v1.2.0) (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** change ng-zorro-antd to deps ([39844d6](https://github.com/psychomet/ng-met-antd/commit/39844d6e098dc7826d9820fae31315c5df7d4a03))
-
+- **components:** change ng-zorro-antd to deps ([39844d6](https://github.com/psychomet/ng-met-antd/commit/39844d6e098dc7826d9820fae31315c5df7d4a03))
 
 ### Features
 
-* **components:** wip cdk deps ([b21865f](https://github.com/psychomet/ng-met-antd/commit/b21865fb2e3446ca787f96c385b03eecd7e793d4))
+- **components:** wip cdk deps ([b21865f](https://github.com/psychomet/ng-met-antd/commit/b21865fb2e3446ca787f96c385b03eecd7e793d4))
 
 ## [1.1.2](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.1...components-v1.1.2) (2023-04-19)
 
