@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.2...components-v1.2.3) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** wip deps cdk ([470e704](https://github.com/psychomet/ng-met-antd/commit/470e70472fc127820ab9e9beec4d1dca25986c35))
+
 ## [1.2.2](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.1...components-v1.2.2) (2023-04-19)
 
 
