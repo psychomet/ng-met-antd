@@ -1,10 +1,9 @@
 # 1.0.0 (2023-04-19)
 
-
 ### Bug Fixes
 
-* **components:** mv extensions to components ([2ef4499](https://github.com/NG-MET/ng-met-antd/commit/2ef449997766bf707fd248c6f8b535457e1cf014))
-* **components:** wip ([687d868](https://github.com/NG-MET/ng-met-antd/commit/687d868ead948cf7b6594c5fe56d7cc060ce50d6))
+- **components:** mv extensions to components ([2ef4499](https://github.com/NG-MET/ng-met-antd/commit/2ef449997766bf707fd248c6f8b535457e1cf014))
+- **components:** wip ([687d868](https://github.com/NG-MET/ng-met-antd/commit/687d868ead948cf7b6594c5fe56d7cc060ce50d6))
 
 ## [1.0.12](https://github.com/psychomet/ng-met-antd/compare/extensions-v1.0.11...extensions-v1.0.12) (2023-04-17)
 
