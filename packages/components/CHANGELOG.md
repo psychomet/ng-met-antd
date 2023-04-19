@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.3...components-v1.2.4) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** added keywords ([a5186a3](https://github.com/psychomet/ng-met-antd/commit/a5186a3863259b8522dd8be63d09cc064a1162ac))
+
 ## [1.2.3](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.2...components-v1.2.3) (2023-04-19)
 
 
