@@ -1,1 +1,1 @@
-export * from './lib/extensions.component';
+export default {};
