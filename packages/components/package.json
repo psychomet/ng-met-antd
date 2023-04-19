@@ -2,8 +2,7 @@
   "name": "ng-met-antd",
   "version": "0.0.0-semantic-release",
   "keywords": [
-    "antd",
-    "jalali"
+    "antd"
   ],
   "repository": {
     "type": "git",
