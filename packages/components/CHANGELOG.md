@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/psychomet/ng-met-antd/compare/components-v1.0.4...components-v1.0.5) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** wip ci ([696a357](https://github.com/psychomet/ng-met-antd/commit/696a357e8be24c2e3c4feb3855c7b089082ecdf4))
+
 ## [1.0.4](https://github.com/NG-MET/ng-met-antd/compare/components-v1.0.3...components-v1.0.4) (2023-04-19)
 
 ### Bug Fixes
