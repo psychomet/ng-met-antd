@@ -15,15 +15,15 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ng-met-antd/extensions": ["packages/extensions/src/index.ts"],
-      "@ng-met-antd/extensions/calendar": [
-        "packages/extensions/calendar/src/index.ts"
+      "ng-met-antd/calendar": [
+        "packages/components/calendar/src/index.ts"
       ],
-      "@ng-met-antd/extensions/core": ["packages/extensions/core/src/index.ts"],
-      "@ng-met-antd/extensions/date-picker": [
-        "packages/extensions/date-picker/src/index.ts"
+      "ng-met-antd/core": ["packages/components/core/src/index.ts"],
+      "ng-met-antd/date-picker": [
+        "packages/components/date-picker/src/index.ts"
       ],
-      "@ng-met-antd/extensions/i18n": ["packages/extensions/i18n/src/index.ts"]
+      "ng-met-antd/i18n": ["packages/components/i18n/src/index.ts"],
+      "ng-met-antd": ["packages/components/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

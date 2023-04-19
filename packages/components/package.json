@@ -1,0 +1,22 @@
+{
+  "name": "ng-met-antd",
+  "version": "0.0.0-semantic-release",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metden/ng-met-antd.git",
+    "directory": "packages/components"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@angular/common": "^15.0.1",
+    "@angular/core": "^15.0.1",
+    "ng-zorro-antd": "^15.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}

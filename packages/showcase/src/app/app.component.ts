@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { NzDatePickerModule } from '@ng-met-antd/extensions/date-picker';
+import { NzDatePickerModule } from 'ng-met-antd/date-picker';
 
 @Component({
   standalone: true,

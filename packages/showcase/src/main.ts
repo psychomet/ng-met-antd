@@ -1,8 +1,8 @@
 import { bootstrapApplication } from '@angular/platform-browser';
 import { AppComponent } from './app/app.component';
-import { NzDateAdapter } from '@ng-met-antd/extensions/core';
+import { NzDateAdapter } from 'ng-met-antd/core';
 import { JalaliMomentDateAdapter } from './app/jalali-moment.adapter';
-import { NZ_DATE_CONFIG } from '@ng-met-antd/extensions/i18n';
+import { NZ_DATE_CONFIG } from 'ng-met-antd/i18n';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { importProvidersFrom } from '@angular/core';
 

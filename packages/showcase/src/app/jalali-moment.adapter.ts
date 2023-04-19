@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import moment, { Moment } from 'jalali-moment';
 
 import StartOf = moment.unitOfTime.StartOf;
-import { DateMode, NzDateAdapter } from '@ng-met-antd/extensions/core';
+import { DateMode, NzDateAdapter } from 'ng-met-antd/core';
 
 @Injectable()
 export class JalaliMomentDateAdapter extends NzDateAdapter<Moment> {
