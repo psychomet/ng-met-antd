@@ -1,6 +1,9 @@
 {
   "name": "ng-met-antd",
   "version": "0.0.0-semantic-release",
+  "keywords": [
+    "antd"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/metden/ng-met-antd.git",
