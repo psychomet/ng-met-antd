@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.1...components-v1.1.2) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** update package.json ([461c440](https://github.com/psychomet/ng-met-antd/commit/461c44057e5ab808d00f6ec416d9d7fa988ca912))
+
 ## [1.1.1](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.0...components-v1.1.1) (2023-04-19)
 
 ### Bug Fixes
