@@ -2,11 +2,12 @@
   "name": "ng-met-antd",
   "version": "0.0.0-semantic-release",
   "keywords": [
-    "antd"
+    "antd",
+    "jalali"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/metden/ng-met-antd.git",
+    "url": "https://github.com/NG-MET/ng-met-antd.git",
     "directory": "packages/components"
   },
   "publishConfig": {
