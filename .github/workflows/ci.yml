@@ -120,3 +120,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           npx nx run components:release
+          npx semantic-release-plus
