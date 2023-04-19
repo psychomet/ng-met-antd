@@ -52,7 +52,7 @@ Then install `ng-met-antd/components` with npm or yarn for Jalali
 
 ```bash
 $ npm install ng-zorro-antd
-$ npm ng-met-antd
+$ npm install ng-met-antd
 ```
 
 ## Provide custom DateAdapter
