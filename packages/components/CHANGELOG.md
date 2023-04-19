@@ -1,9 +1,14 @@
-## [1.0.5](https://github.com/psychomet/ng-met-antd/compare/components-v1.0.4...components-v1.0.5) (2023-04-19)
-
+## [1.0.6](https://github.com/psychomet/ng-met-antd/compare/components-v1.0.5...components-v1.0.6) (2023-04-19)
 
 ### Bug Fixes
 
-* **components:** wip ci ([696a357](https://github.com/psychomet/ng-met-antd/commit/696a357e8be24c2e3c4feb3855c7b089082ecdf4))
+- **components:** wip ci ([c11637c](https://github.com/psychomet/ng-met-antd/commit/c11637c5425ca503c31729820daa286bcd52f1e8))
+
+## [1.0.5](https://github.com/psychomet/ng-met-antd/compare/components-v1.0.4...components-v1.0.5) (2023-04-19)
+
+### Bug Fixes
+
+- **components:** wip ci ([696a357](https://github.com/psychomet/ng-met-antd/commit/696a357e8be24c2e3c4feb3855c7b089082ecdf4))
 
 ## [1.0.4](https://github.com/NG-MET/ng-met-antd/compare/components-v1.0.3...components-v1.0.4) (2023-04-19)
 
