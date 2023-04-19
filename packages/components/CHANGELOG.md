@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.2...components-v1.2.0) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** change ng-zorro-antd to deps ([39844d6](https://github.com/psychomet/ng-met-antd/commit/39844d6e098dc7826d9820fae31315c5df7d4a03))
+
+
+### Features
+
+* **components:** wip cdk deps ([b21865f](https://github.com/psychomet/ng-met-antd/commit/b21865fb2e3446ca787f96c385b03eecd7e793d4))
+
 ## [1.1.2](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.1...components-v1.1.2) (2023-04-19)
 
 ### Bug Fixes
