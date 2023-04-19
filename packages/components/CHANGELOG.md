@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.0...components-v1.2.1) (2023-04-19)
+
+
+### Bug Fixes
+
+* **components:** added angular cdk to allowedNonPeerDependencies ([b6fc089](https://github.com/psychomet/ng-met-antd/commit/b6fc089961c9547f407c724f9bcd12b5a8280762))
+
 # [1.2.0](https://github.com/psychomet/ng-met-antd/compare/components-v1.1.2...components-v1.2.0) (2023-04-19)
 
 
