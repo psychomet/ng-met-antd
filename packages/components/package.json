@@ -10,7 +10,7 @@
     "directory": "packages/components"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
+    "@psychomet:registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "peerDependencies": {
