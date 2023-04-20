@@ -19,9 +19,9 @@ Angular DatePicker component library based on Ant Design.
 
 </div>
 
-## [Demo](https://stackblitz.com/edit/angular-teef7v)
+## [Demo](https://stackblitz.com/edit/ng-met-antd-datepicker)
 
-View DatePickerJalali in action at [https://stackblitz.com/edit/angular-teef7v](https://stackblitz.com/edit/angular-teef7v)
+View DatePickerJalali in action at [Stackblitz Demo](https://stackblitz.com/edit/ng-met-antd-datepicker)
 
 <img src="https://user-images.githubusercontent.com/42533472/171279996-75478af5-7977-4845-bf56-846c448308ae.gif" alt="jalali-date-picker" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
