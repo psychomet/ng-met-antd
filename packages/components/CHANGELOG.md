@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.4...components-v1.2.5) (2023-04-20)
+
+
+### Bug Fixes
+
+* **components:** update stackblitz link ([a142adc](https://github.com/psychomet/ng-met-antd/commit/a142adc864684d4457652f198133025256d57143))
+
 ## [1.2.4](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.3...components-v1.2.4) (2023-04-19)
 
 
