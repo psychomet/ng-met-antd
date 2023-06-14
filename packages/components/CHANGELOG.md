@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.5...components-v1.3.0) (2023-06-14)
+
+
+### Features
+
+* **components:** update angular nx ng-zorro-antd ([5b47f3d](https://github.com/psychomet/ng-met-antd/commit/5b47f3dd4c2627961c915bfc00222b20b8fadc9d))
+
 ## [1.2.5](https://github.com/psychomet/ng-met-antd/compare/components-v1.2.4...components-v1.2.5) (2023-04-20)
 
 
